@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LoginApp</string>
+
+    <string name="prompt_usuario">Usuario</string>
+    <string name="prompt_clave">Clave</string>
+    <string name="switchSaveCredentials">Guardar las credenciales</string>
+    <string name="btnAcceder">ACCEDER</string>
+
+    <string name="bienvenido">Bienvenid@, </string>
+    <string name="borrarCredenciales">BORRAR LAS CREDENCIALES</string>
+    <string name="credencialesBorradas">Credenciales borradas</string>
+</resources>

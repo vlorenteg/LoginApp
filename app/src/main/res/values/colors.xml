@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="non_photo_blue">#AFD5DB</color>
+    <color name="raspberry_rose">#B8336A</color>
+    <color name="raspberry_rose_2">#C3A72E67</color>
+    <color name="ultra_violet">#726DA8</color>
+    <color name="glaucous">#7D8CC4</color>
+    <color name="wisteria">#C490D1</color>
+    <color name="space_cadet">#4E4E75</color>
+    <color name="dark_blue">#1D5788</color>
+    <color name="misty_rose">#F1D0D0</color>
+    <color name="dutch_white">#F4E4BA</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="orange_100">#FFE0B2</color>
+</resources>
